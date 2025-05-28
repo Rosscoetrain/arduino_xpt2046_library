@@ -1,6 +1,6 @@
 {
   "name": "arduino xpt2046 library",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Library for xpt2046 touch screen.\n This is forked from https://github.com/lbuque/arduino_xpt2046_library to have it available in platformio.",
   "keywords": "display, xpt2046, touch",
   "repository":
