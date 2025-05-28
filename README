@@ -1,0 +1,13 @@
+This is a fork of:
+
+https://github.com/lbuque/arduino_xpt2046_library
+
+Specifically so that it can be added to the Platformio Registry.
+
+This is so that it can be used in:
+
+https://github.com/RosscoeTrain/CheapYellowController
+
+when compiling under Platformio.
+
+

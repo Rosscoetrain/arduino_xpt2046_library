@@ -1,0 +1,23 @@
+{
+  "name": "arduino xpt2046 library",
+  "version": "0.1.0",
+  "description": "Library for xpt2046 touch screen.\n This is forked from https://github.com/lbuque/arduino_xpt2046_library to have it available in platformio.",
+  "keywords": "display, xpt2046, touch",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Rosscoetrain/arduino_xpt2046_library"
+  },
+  "authors":
+    {
+      "name": "Ross Scanlon",
+      "email": "iam@rosscoe.com",
+      "url": "https://rosscoe.com",
+      "maintainer": true
+    },
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/Rosscoetrain/arduino_xpt2046_library",
+  "frameworks": "*",
+  "platforms": "*"
+}
+
